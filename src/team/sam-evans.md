@@ -11,7 +11,7 @@ image: img-bio-sam.avif
 summary: "As co-founder, Sam established the business around a simple belief:
   successful delivery depends on having experienced people close to the work,
   providing trusted judgement, clear direction and practical support when it
-  matters most. Test"
+  matters most."
 careerTimeline:
   - period: 2025 – Present
     title: Managing Director, Lockrose
