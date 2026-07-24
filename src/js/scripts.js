@@ -527,3 +527,26 @@ window.addEventListener("pagehide", () => {
 clearQueuedTimeouts();
 }, { once: true });
 })();
+
+(() => {
+const params = new URLSearchParams(window.location.search);
+
+function setFieldValue(selector, paramName) {
+const field = document.querySelector(selector);
+
+if (!field) {
+return;
+}
+
+const value = params.get(paramName);
+
+if (!value) {
+return;
+}
+
+field.value = value.trim();
+}
+
+setFieldValue("#contact-referrer", "referrer");
+setFieldValue("#contact-placement", "placement");
+})();

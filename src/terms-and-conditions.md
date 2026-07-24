@@ -71,7 +71,7 @@ These terms are governed by the laws of England and Wales. Any dispute relating 
 
 ## Contact
 
-If you have any questions about these terms, please [contact us](/contact/).
+If you have any questions about these terms, please [contact us](/contact?referrer=terms-and-conditions).
 
 ---
 
