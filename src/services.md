@@ -4,7 +4,7 @@ title: "Bridging the gap between strategy and delivery"
 metaDesc: Lockrose helps clients get hold of those moving parts and keep work moving from early strategy through to handover."
 permalink: /services/
 
-lede: "We help organisations bridge the gap between strategy and delivery by providing experienced professionals who bring clarity, coordination, and confidence."
+lede: "We connect strategic direction with day-to-day delivery by providing experienced professionals who bring clarity, coordination, and confidence."
 
 options:
   items:

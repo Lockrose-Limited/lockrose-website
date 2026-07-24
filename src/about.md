@@ -65,7 +65,7 @@ caseStudyPromos:
 
 trustedSection:
   title: Close enough to care, experienced enough to be trusted
-  text: We work alongside clients, providing advice, leadership, and support. They trust us because we combine expertise with sound judgement to help them navigate complexity, make decisions, and deliver success.
+  text: We stay close to delivery, working shoulder-to-shoulder with client teams, providing clear advice, practical support and experienced leadership when it matters most.
 
 comparisonSection:
   items:

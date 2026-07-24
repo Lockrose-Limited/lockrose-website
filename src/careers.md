@@ -5,39 +5,39 @@ permalink: /careers/
 
 ---
 
-<p class="alt-lede">At Lockrose, experienced people work close to the decisions that shape major infrastructure programmes. We are deliberately lean, practitioner-led, and built around people we know, trust, and stand behind. That means less hierarchy, more responsibility, and the chance to make a visible difference on complex energy, utilities, transport, and public sector projects.</p>
+<p class="alt-lede">At Lockrose, experienced people work close to the decisions that shape major infrastructure programmes. Working with us means you have the chance to make a visible difference on complex energy, utilities, transport, and public sector projects.</p>
 
 <div class="btn-cta">
-<a href="/team/" class="btn" data-variant="secondary">Our team</a>
-<a href="https://apply.workable.com/lockrose-limited/" class="btn">Available vacancies</a>
+<a href="https://apply.workable.com/lockrose-limited/" class="btn">All available vacancies</a>
 </div><!-- btn-cta -->
 
 ---
 
-## Senior Planner - Transmission & Distribution
+## What it’s like to work with us
 
-We are seeking an experienced and driven Senior Planner to support the successful delivery of major Transmission & Distribution (T&D) projects across the energy sector.
+Our team is built around capability, judgement, and the drive to deliver when it matters. We’re a consultancy where experienced people stay close to the decisions and close to the impact. If you want to do serious work with capable people, support clients under real delivery pressure, and grow with a business where your judgement matters, Lockrose is the place to do it.
 
-[More information](https://apply.workable.com/lockrose-limited/j/EA910F222F/)
-
----
-
-## Project Manager | Maritime (HV & Civils) - (Expression of Interest)
-
-We are seeking expressions of interest from experienced NEC Accredited Project Managers to support the delivery of major infrastructure works within the maritime and energy sectors.
-
-[More information](https://apply.workable.com/lockrose-limited/j/820D39FA2A/)
+<div class="btn-cta">
+<a href="/team/" class="btn" data-variant="secondary">Our team</a>
+</div><!-- btn-cta -->
 
 ---
 
-## Chartered Quantity Surveyor | Maritime (HV & Civils) - (Expression of Interest)
+## Our values / How we work
 
-We are seeking expressions of interest from experienced Chartered Quantity Surveyor to support the delivery of complex infrastructure works across a portfolio of civil and marine projects.
+We set the standard in how we deliver for clients, and we set the same standard for how we support our people.
 
-[More information](https://apply.workable.com/lockrose-limited/j/6CD715611F/)
+- Benefits and perks
+- Bonus structure
+- Clear progression pathways
+- Flexible, hybrid working
+- Industry‑leading project exposure
+- Professional development
+- Wellness support
 
----
+If your skills align with what we do but the right role isn’t listed, reach out. We’d welcome a conversation.
 
-If you want to do serious work with capable people, support clients under real delivery pressure, and grow with a business where your judgement matters, Lockrose is a place to do it.
 
-_Updated: July 2026_
+<div class="btn-cta">
+<a href="/contact/" class="btn">Talk to us</a>
+</div><!-- btn-cta -->

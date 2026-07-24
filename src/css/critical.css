@@ -887,7 +887,7 @@ height: 1px; }
 .btn-cta[data-variation="icon"] {
 align-items: center;
 display: flex;
-gap: 0; }
+gap: var(--spacing-s); }
 
 .btn-cta[data-variation="icon"]:before {
 border-block-start: var(--border-width-r) solid var(--color-border);

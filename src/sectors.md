@@ -5,7 +5,7 @@ metaDesc: Lockrose’s strongest experience is in energy and power infrastructur
 permalink: /sectors/
 
 lede: |
-  Our strongest experience is in energy and power infrastructure where projects are full of moving parts, regulated, and often time-sensitive. Those same pressures occur across utilities, transport, and public sector programmes.
+  Our core experience is in energy and power infrastructure where projects are full of moving parts, regulated, and often time-sensitive. Those same pressures occur across utilities, transport, and public sector programmes. We step into that pressure with people you can trust to deliver results.
 
 familiarProblemsSection:
   title: Different sectors, familiar challenges
