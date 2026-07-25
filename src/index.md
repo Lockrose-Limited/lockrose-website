@@ -6,7 +6,7 @@ layout: layouts/home.html
 lede: "Guiding complex projects through the realities of delivery"
 
 aside: |
-  <p class="alt-lede">Major projects rarely follow a straight line. We provide the experience and judgement needed to navigate complexity, overcome obstacles, and keep programmes moving forward.</p>
+  <p class="alt-lede">Major projects demand more than just process. We bring the experience and judgement to navigate complexity and protect the value your programme is built to deliver.</p>
 
 featureImage: ""
 featureImageCaption: ""
@@ -26,9 +26,9 @@ homeStats:
       description: "From more than two years of stalled options assessment to an approved delivery route in four weeks."
 
 experienceSection:
-  title: Small enough to be close. Experienced enough to be trusted
-  lede: Projects stall for all kinds of reasons.
-  text: The right people not in place, contractors pulling in different directions, or decisions taking too long. We step into that pressure with people who can coordinate and lead the work forward.
+  title: Close enough to care. Experienced enough to be trusted
+  lede: We stay close to delivery, working shoulder-to-shoulder with client teams, providing clear advice, practical support and experienced leadership when it matters most.
+  text:
   items:
     - title: Deliberately lean
       text: Fewer layers. Faster decisions. Direct access to people who can actually solve the problem.
@@ -49,8 +49,8 @@ servicesSection:
   text: "Most infrastructure programmes struggle when the plan meets reality: shifting priorities, delayed decisions, commercial pressure, access constraints, and risks that refuse to stay on a spreadsheet. We help clients move from early strategy through to handover."
 
 energyExperienceSection:
-  title: Deep energy experience
-  text: Our strongest experience is in energy and power infrastructure. This matters because those projects are complex, full of moving parts, regulated, and time-sensitive.
+  title: Proven capability
+  text: Our core experience is in energy and power infrastructure. This matters because those projects are complex, full of moving parts, regulated, and time-sensitive.
 
 caseStudyPromos:
   - london-power-tunnels-2
