@@ -7,10 +7,7 @@ metaDesc: Lockrose — Experience when delivery matters. Guiding complex project
 featureImage: ""
 featureImageCaption: ""
 lede: Guiding complex projects through the realities of delivery
-aside: >
-  <p class="alt-lede">Major projects demand more than just process. We bring the
-  experience and judgement to navigate complexity and protect the value your
-  programme is built to deliver.</p>
+
 homeStats:
   title: Major energy experience
   text: We are trusted on major electricity infrastructure programmes where
@@ -33,9 +30,7 @@ experienceSection:
   lede: We stay close to delivery, working shoulder-to-shoulder with client teams,
     providing clear advice, practical support and experienced leadership when it
     matters most.
-  text: <p class="alt-lede">We stay close to delivery, working
-    shoulder-to-shoulder with client teams, providing clear advice, practical
-    support and experienced leadership when it matters most. </p>
+  text:
   items:
     - title: Deliberately lean
       text: Fewer layers. Faster decisions. Direct access to people who can actually
@@ -68,9 +63,7 @@ energyExperienceSection:
 caseStudyPromos:
   - london-power-tunnels-2
   - 132kv-gis-substation-programme
-trustedSection:
-  title: "null"
-  text: "null"
+
 ctaHeadline: Need capable people on a complex programme?
 ctaText: Tell us what you are trying to deliver.
 ctaButton: Start a conversation

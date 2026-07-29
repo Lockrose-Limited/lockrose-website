@@ -27,7 +27,7 @@ Our team is built around capability, judgement, and the drive to deliver when it
 
 We set the standard in how we deliver for clients, and we set the same standard for how we support our people.
 
-- Benefits and perks
+### Benefits and perks
 - Bonus structure
 - Clear progression pathways
 - Flexible, hybrid working
@@ -36,7 +36,6 @@ We set the standard in how we deliver for clients, and we set the same standard 
 - Wellness support
 
 If your skills align with what we do but the right role isn’t listed, reach out. We’d welcome a conversation.
-
 
 <div class="btn-cta">
 <a href="/contact?referrer=careers" class="btn">Talk to us</a>

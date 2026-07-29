@@ -731,6 +731,8 @@ margin-block: var(--spacing-m) 0;
 margin-inline: auto;
 max-inline-size: 800px; }
 
+#logos-accreditations .accreditations-dark {
+fill: var(--color-text-default); }
 
 
 /* ==========================================================================
