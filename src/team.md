@@ -1,6 +1,6 @@
 ---
 layout: "layouts/team.html"
-title: Our team
+title: Our leadership
 permalink: /team/
 
 aboutTitle: "About Lockrose"

@@ -1039,16 +1039,13 @@ NAVIGATION
 [data-navigation-body="bar"] ul {
 color: #fff;
 display: grid;
-gap: var(--spacing-s) 0;
+gap: var(--spacing-xs) 0;
 grid-template-columns: 1fr 1fr;
 font-size: var(--font-size-l);
 margin: 0; }
 
 [data-navigation-body="bar"] li {
 text-align: center; }
-
-[data-navigation-body="bar"] li:last-child {
-grid-column: span 2; }
 
 [data-navigation-body="bar"] li:before {
 content: "";
