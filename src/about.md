@@ -9,6 +9,9 @@ lede: |
 
 aside: |
 
+careers: |
+  Our business is built on reputation, specialism, and reliability, delivering efficiency, cost-effectiveness, and expert-driven results. If your values align with ours, we’d love to talk about you joining us.
+
 featureImage: "img-about-1.svg"
 featureImageCaption: "Clients choose us because they want experienced professionals close to the work, clear lines of accountability, and confidence that the people engaged will make a positive impact starting day one."
 

@@ -18,7 +18,7 @@ permalink: /careers/
 Our team is built around capability, judgement, and the drive to deliver when it matters. We’re a consultancy where experienced people stay close to the decisions and close to the impact. If you want to do serious work with capable people, support clients under real delivery pressure, and grow with a business where your judgement matters, Lockrose is the place to do it.
 
 <div class="btn-cta">
-<a href="/team/" class="btn" data-variant="secondary">Our team</a>
+<a href="/team/" class="btn" data-variant="secondary">Our leadership team</a>
 </div><!-- btn-cta -->
 
 ---

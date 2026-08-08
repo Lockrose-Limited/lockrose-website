@@ -88,6 +88,14 @@
 <h2 data-size="2xl">{{ experienceSection.title }}</h2>
 {% if experienceSection.lede %}<p class="alt-lede">{{ experienceSection.lede }}</p>{% endif %}
 {% if experienceSection.text %}<p>{{ experienceSection.text }}</p>{% endif %}
+
+{% if careers %}<hr style="border-width:1px;">
+<div class="btn-cta" style="padding-block-start:0;">
+<p><b class="alt-uppercase">Join us –</b> {{ careers }}</p>
+<a href="/careers" class="btn" data-variant="secondary">Careers at Lockrose</a>
+</div><!-- btn-cta -->{% endif %}
+
+
 </div><!-- one -->
 
 <div data-layout="grid" data-variation="dividers">

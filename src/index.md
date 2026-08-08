@@ -8,6 +8,11 @@ featureImage: ""
 featureImageCaption: ""
 lede: Guiding complex projects through the realities of delivery
 
+aside: "Major projects rarely follow a straight line. We provide the experience and judgement needed to navigate complexity, overcome obstacles, and keep programmes moving forward."
+
+careers: |
+  Our business is built on reputation, specialism, and reliability, delivering efficiency, cost-effectiveness, and expert-driven results. If your values align with ours, we’d love to talk about you joining us.
+
 homeStats:
   title: Major energy experience
   text: We are trusted on major electricity infrastructure programmes where

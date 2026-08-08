@@ -1,9 +1,9 @@
 ---
 layout: "layouts/team.html"
-title: Our leadership
+title: Our leadership team
 permalink: /team/
 
-aboutTitle: "About Lockrose"
+aboutTitle: "Our leadership team"
 aboutSummary: "Our business is built on reputation, specialism, and reliability, delivering efficiency, cost-effectiveness, and expert-driven results."
 
 careersTitle: "Do your best work with us"

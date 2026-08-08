@@ -40,7 +40,7 @@ collections:
             name: aside
             widget: markdown
             required: false
-          - label: National Grid panel
+          - label: Experience panel
             name: homeStats
             widget: object
             required: false
@@ -106,6 +106,10 @@ collections:
                     name: icon
                     widget: string
                     required: false
+          - label: Careers
+            name: careers
+            widget: markdown
+            required: false
           - label: Services section
             name: servicesSection
             widget: object
@@ -310,6 +314,10 @@ collections:
                             name: listItem
                             widget: string
                             required: false
+          - label: Careers
+            name: careers
+            widget: markdown
+            required: false
           - label: CTA headline
             name: ctaHeadline
             widget: string
