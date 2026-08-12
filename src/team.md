@@ -2,7 +2,7 @@
 layout: layouts/team.html
 permalink: /team/
 title: Leadership team
-aboutTitle: Our leadership team
+aboutTitle: Leadership team
 aboutSummary: Our business is built on reputation, specialism, and reliability,
   delivering efficiency, cost-effectiveness, and expert-driven results.
 careersTitle: Do your best work with us
