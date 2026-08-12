@@ -14,7 +14,7 @@ homeStats:
   text: Proven delivery across the UK’s most critical electricity network programmes.
   items:
     - value: ">£1bn"
-      label: programmes
+      label: Programmes
       description: Supporting major programmes exceeding £1bn that are transforming
         the UK energy network.
     - value: 11kV to 400kV
