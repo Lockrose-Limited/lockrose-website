@@ -17,7 +17,7 @@ homeStats:
       label: Programmes
       description: Supporting major programmes exceeding £1bn that are transforming
         the UK energy network.
-    - value: 11kV-400kV
+    - value: <400kV
       label: Networks
       description: Extensive experience spanning DNO and private networks through to
         400kV grid and HVDC connections.
