@@ -7,35 +7,30 @@ metaDesc: Lockrose — Experience when delivery matters. Guiding complex project
 featureImage: ""
 featureImageCaption: ""
 lede: Guiding complex projects through the realities of delivery
-
-aside: "Major projects rarely follow a straight line. We provide the experience and judgement needed to navigate complexity, overcome obstacles, and keep programmes moving forward."
-
-careers: |
-  Our business is built on reputation, specialism, and reliability, delivering efficiency, cost-effectiveness, and expert-driven results. If your values align with ours, we’d love to talk about you joining us.
-
+aside: Proven expertise and practical delivery support, from individual
+  challenges to the most complex delivery environments.
 homeStats:
-  title: Major energy experience
-  text: We are trusted on major electricity infrastructure programmes where
-    delivery matters.
+  title: Leading UK Energy Infrastructure Experience
+  text: Proven delivery across the UK’s most critical electricity network programmes.
   items:
-    - value: £1bn
-      label: programme
-      description: "We supported a £1bn, 8-year programme to upgrade London’s
-        electricity network. "
-    - value: 30km
-      label: cable tunnels
-      description: The project includes 30km of cable tunnels, critical substation
-        works, and four main works contractors.
-    - value: 132kV
-      label: GIS substations
-      description: From more than two years of stalled options assessment to an
-        approved delivery route in four weeks.
+    - value: ">£1bn"
+      label: programmes
+      description: Supporting major programmes exceeding £1bn that are transforming
+        the UK energy network.
+    - value: 11kV to 400kV
+      label: Networks
+      description: Extensive experience spanning DNO and private networks through to
+        400kV grid and HVDC connections.
+    - value: End-to-End
+      label: Delivery
+      description: Experience across the full project lifecycle, from development and
+        design through construction, commissioning and energisation.
 experienceSection:
   title: Close enough to care. Experienced enough to be trusted
   lede: We stay close to delivery, working shoulder-to-shoulder with client teams,
     providing clear advice, practical support and experienced leadership when it
     matters most.
-  text:
+  text: null
   items:
     - title: Deliberately lean
       text: Fewer layers. Faster decisions. Direct access to people who can actually
@@ -53,13 +48,19 @@ experienceSection:
       text: We work as part of the client team. We do not sit at the edge of the
         programme sending reports about problems someone else needs to fix.
       icon: icon-texture-4.svg
+careers: >
+  Our business is built on reputation, specialism, and reliability, delivering
+  efficiency, cost-effectiveness, and expert-driven results. If your values
+  align with ours, we’d love to talk about you joining us.
 servicesSection:
   title: How we help
-  lede: We bring control to the messy middle of major projects
-  text: "Most infrastructure programmes struggle when the plan meets reality:
-    shifting priorities, delayed decisions, commercial pressure, access
-    constraints, and risks that refuse to stay on a spreadsheet. We help clients
-    move from early strategy through to handover."
+  lede: The right experience, where delivery demands it
+  text: >-
+    Major infrastructure programmes are rarely straightforward. 
+
+    Success depends on having experienced people who can manage complexity, anticipate challenge and make things happen. 
+
+    We work alongside our clients from early strategy through to delivery and handover, bringing the judgement and hands-on experience needed to keep programmes moving.
 energyExperienceSection:
   title: Proven capability
   text: Our core experience is in energy and power infrastructure. This matters
@@ -68,7 +69,6 @@ energyExperienceSection:
 caseStudyPromos:
   - london-power-tunnels-2
   - 132kv-gis-substation-programme
-
 ctaHeadline: Need capable people on a complex programme?
 ctaText: Tell us what you are trying to deliver.
 ctaButton: Start a conversation
