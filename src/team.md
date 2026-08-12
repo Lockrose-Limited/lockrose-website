@@ -1,12 +1,11 @@
 ---
-layout: "layouts/team.html"
-title: Our leadership team
+layout: layouts/team.html
 permalink: /team/
-
-aboutTitle: "Our leadership team"
-aboutSummary: "Our business is built on reputation, specialism, and reliability, delivering efficiency, cost-effectiveness, and expert-driven results."
-
-careersTitle: "Do your best work with us"
-careersSummary: "At Lockrose, experienced people work close to the decisions that shape major infrastructure programmes."
-
+title: Leadership team
+aboutTitle: Our leadership team
+aboutSummary: Our business is built on reputation, specialism, and reliability,
+  delivering efficiency, cost-effectiveness, and expert-driven results.
+careersTitle: Do your best work with us
+careersSummary: At Lockrose, experienced people work close to the decisions that
+  shape major infrastructure programmes.
 ---
