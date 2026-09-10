@@ -2,7 +2,7 @@
 layout: layouts/member.html
 name: Sam Evans
 role: Managing Director
-qualifications: MAPM
+qualifications: FAPM
 location: ""
 email: sam.evans@lockrose.com
 url: ""
