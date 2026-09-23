@@ -21,7 +21,7 @@ homeStats:
       label: Networks
       description: Extensive experience spanning DNO and private networks through to
         400kV grid and HVDC connections.
-    - value: End-to-End
+    - value: End–end
       label: Delivery
       description: Experience across the full project lifecycle, from development and
         design through construction, commissioning and energisation.
@@ -56,9 +56,9 @@ servicesSection:
   title: How we help
   lede: The right experience, where delivery demands it
   text: >-
-    Major infrastructure programmes are rarely straightforward. 
+    Major infrastructure programmes are rarely straightforward.
 
-    Success depends on having experienced people who can manage complexity, anticipate challenge and make things happen. 
+    Success depends on having experienced people who can manage complexity, anticipate challenge and make things happen.
 
     We work alongside our clients from early strategy through to delivery and handover, bringing the judgement and hands-on experience needed to keep programmes moving.
 energyExperienceSection:
