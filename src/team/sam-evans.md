@@ -62,8 +62,7 @@ careerTimeline:
       management and infrastructure investment within highly regulated
       environments.
 ---
-
-With more than 18 years’ experience delivering complex infrastructure projects and programmes, he is a Member of the Association for Project Management (MAPM) and an NEC4 Registered Project Manager, with a career spanning major energy, utility and infrastructure programmes across the UK.
+With more than 18 years’ experience delivering complex infrastructure projects and programmes, he is a Fellow of the Association for Project Management (FAPM) and an NEC4 Registered Project Manager, with a career spanning major energy, utility and infrastructure programmes across the UK.
 
 His experience includes leading multidisciplinary teams, managing complex stakeholder environments and delivering critical infrastructure projects in highly regulated settings.
 
